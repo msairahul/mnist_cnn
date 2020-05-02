@@ -8,4 +8,4 @@ Developing a custom CNN model that contains customized convolutional layers, max
 2. **Neural Networks** 
 3. **Hyperparameter tuning**
 
- 
+ This project mainly focuses on developing a CNN model to recognize the digits between 0-9.
